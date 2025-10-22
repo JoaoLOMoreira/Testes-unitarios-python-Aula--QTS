@@ -32,3 +32,4 @@ Ele contém exemplos básicos de operações matemáticas e seus respectivos tes
    ```
    python -m unittest discover -v
 
+**Documentação da biblioteca Unittest:** [Unittest](https://docs.python.org/3/library/unittest.html)
